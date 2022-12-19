@@ -18,7 +18,7 @@ main() {
         VendaIntem(
             quantidade: 100,
             produto: Produto(
-              codigo: 52,
+              codigo: 5256,
               nome: 'Borracha',
               preco: 2.00,
               desconto: 0.5,
